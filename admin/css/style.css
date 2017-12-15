@@ -1,0 +1,56 @@
+
+.admin-photo-thumbnail {
+
+    width: 200px;
+    border-radius: 5px;
+
+}
+
+.image_user {
+    width: 60px;
+    height: 60px;
+    border-radius: 2px;
+}
+
+.side_style {
+    background: #555;
+    padding: 10px;
+    color: white;
+}
+
+/*login page*/
+
+#login_id label {
+    color: #fff;
+}
+
+input.search{
+	width: 10%;
+	resize: none;
+	border: 1px solid #e7e7e7;
+	height: 20px;
+	margin: 10px auto;
+	border-radius: 4px;
+	border-color: skyblue;
+	padding: 10px 10px;
+}
+
+.img_search {
+    width: 40px;
+    height: 40px;
+    border-radius: 3px;
+    margin-top: 3px;
+}
+
+.li_search {
+    list-style-type: none;
+}
+
+.nav-right-down-wrap{
+    width: 260px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    /*position: absolute;*/
+    background: #f5f5f5;
+    top: 51px;
+}
