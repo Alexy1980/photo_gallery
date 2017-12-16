@@ -7,8 +7,8 @@
 }
 
 .image_user {
-    width: 60px;
-    height: 60px;
+    width: 5em;
+    height: 5em;
     border-radius: 2px;
 }
 
@@ -36,8 +36,8 @@ input.search{
 }
 
 .img_search {
-    width: 40px;
-    height: 40px;
+    width: 17%;
+    height: 17%;
     border-radius: 3px;
     margin-top: 3px;
 }
